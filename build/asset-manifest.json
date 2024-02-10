@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.19b6ae19.css",
-    "main.js": "/static/js/main.75f80d25.js",
-    "index.html": "/index.html",
-    "main.19b6ae19.css.map": "/static/css/main.19b6ae19.css.map",
-    "main.75f80d25.js.map": "/static/js/main.75f80d25.js.map"
+    "main.css": "/iutkarsh2020/Sorting-Visualizer/static/css/main.19b6ae19.css",
+    "main.js": "/iutkarsh2020/Sorting-Visualizer/static/js/main.75f80d25.js",
+    "index.html": "/iutkarsh2020/Sorting-Visualizer/index.html",
+    "main.19b6ae19.css.map": "/iutkarsh2020/Sorting-Visualizer/static/css/main.19b6ae19.css.map",
+    "main.75f80d25.js.map": "/iutkarsh2020/Sorting-Visualizer/static/js/main.75f80d25.js.map"
   },
   "entrypoints": [
     "static/css/main.19b6ae19.css",
